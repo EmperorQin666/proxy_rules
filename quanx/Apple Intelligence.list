@@ -1,2 +1,2 @@
-HOST-SUFFIX,apple-relay.apple.com
-HOST-SUFFIX,apple-relay.cloudflare.com
+HOST-SUFFIX,apple-relay.apple.com,AppleAI
+HOST-SUFFIX,apple-relay.cloudflare.com,AppleAI
