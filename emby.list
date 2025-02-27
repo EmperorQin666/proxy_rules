@@ -1,6 +1,5 @@
 #lily
-DOMAIN,cemby.lilyya.xyz
-DOMAIN,cfemby.lilyya.xyz
+DOMAIN-KEYWORD,lilyya
 #非越
 DOMAIN,z.sfcj.org
 DOMAIN,jg.sfcj.org
@@ -35,6 +34,8 @@ DOMAIN,emby.jingzhe.pro
 DOMAIN,super.yezi.my
 #douban
 DOMAIN,onatoshi.114514.quest
+#终点站
+DOMAIN-KEYWORD,emby.wtf
 #keyword
 DOMAIN-KEYWORD,emby
 
