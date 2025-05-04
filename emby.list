@@ -39,6 +39,11 @@ DOMAIN,onatoshi.114514.quest
 DOMAIN-KEYWORD,emby.wtf
 #keyword
 DOMAIN-KEYWORD,emby
+USER-AGENT,SenPlayer*
+USER-AGENT,infuse*
+USER-AGENT,BoxPlayer*
+
+
 
 
 
