@@ -37,6 +37,10 @@ DOMAIN,super.yezi.my
 DOMAIN,onatoshi.114514.quest
 #终点站
 DOMAIN-KEYWORD,emby.wtf
+#入机
+DOMAIN-SUFFIX,rjemby.com
+DOMAIN-SUFFIX,rjemby.com
+DOMAIN-SUFFIX,998903.xyz
 #keyword
 DOMAIN-KEYWORD,emby
 USER-AGENT,SenPlayer*
