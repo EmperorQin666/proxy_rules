@@ -1,1 +1,8 @@
 DOMAIN,unfiltered.adguard-dns.com
+IP-CIDR,223.5.5.5.5/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve
+IP-CIDR6,2620:0:2d0:200::7/32
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.360.cn
+DOMAIN-SUFFIX,doh.pub
+IP-CIDR,1.12.12.12/32,no-resolve
