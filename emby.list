@@ -39,6 +39,12 @@ DOMAIN,onatoshi.114514.quest
 DOMAIN-KEYWORD,emby.wtf
 #入机
 DOMAIN-SUFFIX,rjf37.com
+#星云
+DOMAIN-SUFFIX,nebula-media.org
+#比比
+DOMAIN-SUFFIX,beebi.org
+#临镜
+DOMAIN-SUFFIX,liminalnet.com
 #keyword
 DOMAIN-KEYWORD,emby
 USER-AGENT,SenPlayer*
