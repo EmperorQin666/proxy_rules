@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_keyword": [
+        "lilyemby",
+        "free.28.al",
+        "emby"
+      ]
+    },
+    {
+      "domain": [
+        "z.sfcj.org",
+        "jg.sfcj.org",
+        "ju.sfcj.org",
+        "cf.sfcj.org",
+        "us.nanflix.net",
+        "emby.my",
+        "qdz-sg.vfing.de",
+        "favoritewife.com",
+        "qdz-de.vfing.de",
+        "qdz-hk-0.vfing.de",
+        "qdz-hk-1.vfing.de",
+        "qdz-hk-2.vfing.de",
+        "qdz-hk-hol.vfing.de",
+        "qdzcdn.vfing.de",
+        "emby.yomo.lol",
+        "pub1.emby.wtf",
+        "pub2.emby.wtf",
+        "pub3.emby.wtf",
+        "auroramedia.vip",
+        "emby.jingzhe.pro",
+        "super.yezi.my",
+        "onatoshi.114514.quest"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "doven.tv",
+        "rjf37.com",
+        "nebula-media.org",
+        "beebi.org",
+        "liminalnet.com"
+      ]
+    }
+  ]
+}
