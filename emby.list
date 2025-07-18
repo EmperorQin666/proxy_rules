@@ -47,6 +47,8 @@ DOMAIN-SUFFIX,beebi.org
 DOMAIN-SUFFIX,liminalnet.com
 #存档
 DOMAIN-SUFFIX,zn.al
+#Zox
+DOMAIN-SUFFIX,3767483.xyz
 #keyword
 DOMAIN-KEYWORD,emby
 USER-AGENT,SenPlayer*
